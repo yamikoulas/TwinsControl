@@ -1,0 +1,32 @@
+name: TwinsControl
+main: me.twins.control.TwinsControl
+version: 1.0.0
+api-version: '1.16'
+author: Syniox
+commands:
+  control:
+    description: Freeze a player for inspection or manage control commands
+    usage: /control <player | list | reload | finish>
+    permission: twinscontrol.staff
+    aliases: [kontrol, tc, twinscontrol]
+  finishcontrol:
+    description: Finish the inspection of a player
+    usage: /finishcontrol <player>
+    permission: twinscontrol.staff
+    aliases: [kontrolbitir, endcontrol]
+  setcontrol:
+    description: Set the control room location
+    usage: /setcontrol
+    permission: twinscontrol.staff
+    aliases: [setkontrol]
+  confess:
+    description: Confess to cheating while under inspection
+    usage: /confess
+    aliases: [itiraf]
+permissions:
+  twinscontrol.staff:
+    description: Allows using TwinsControl staff commands
+    default: op
+  twinscontrol.yetkili:
+    description: Legacy alias for TwinsControl staff permission
+    default: op

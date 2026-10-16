@@ -1,0 +1,93 @@
+# =========================================================
+#                 TwinsControl - Türkçe Dil Dosyası
+# =========================================================
+
+prefix: "<gradient:#B499DD:#A66AFF>ᴛᴡɪɴѕ ᴄᴏɴᴛʀᴏʟ</gradient> &8» "
+
+# Canlı BossBar Başlığı
+bossbar:
+  title: "&c&lKONTROL EDİLİYORSUNUZ"
+  time-format: "&7[%time%]"
+
+# Canlı ActionBar Bilgilendirmesi
+actionbar:
+  message: "&eSüre: &f%time% &8| &cYetkililerle Discord üzerinden iletişim kurun!"
+
+# Oyuncuya Gönderilecek Bildirimler
+player-notifications:
+  control-title:
+    title: "&#B499DD&lᴅᴏɴᴅᴜʀᴜʟᴅᴜɴ"
+    subtitle: "&fʜɪʟᴇ ѕᴜᴘʜᴇѕɪ ѕᴇʙɪʏʟᴇ ᴅᴏɴᴅᴜʀᴜʟᴅᴜɴ"
+    fade-in: 10
+    stay: 100
+    fade-out: 20
+  
+  control-messages:
+    - "&7----------------------------------------"
+    - "&e⚠ &cʜɪʟᴇ ᴋᴏɴᴛʀᴏʟᴜ ʙᴀѕʟᴀᴅɪ"
+    - ""
+    - "&cʜɪʟᴇ ᴋᴜʟʟᴀɴɪᴍɪ ѕᴜᴘʜᴇѕɪ ѕᴇʙɪʏʟᴇ ᴅᴏɴᴅᴜʀᴜʟᴅᴜɴ."
+    - "&eʏᴇᴛᴋɪʟɪʟᴇʀ ᴇɴ ᴋɪѕᴀ ѕᴜʀᴇᴅᴇ ѕᴇɴɪɴʟᴇ ɪʟᴇᴛɪѕɪᴍᴇ ɢᴇᴄᴇᴄᴇᴋʟᴇʀ."
+    - "&eɪᴛɪʀᴀғ ᴇᴛᴍᴇᴋ ɪѕᴛᴇʀѕᴇɴ: &e/itiraf &cyazabilirsin."
+    - "&e&lᴜʏᴀʀɪ: &cᴏʏᴜɴᴅᴀɴ ᴄɪᴋᴀʀѕᴀɴ ᴄᴇᴢᴀ ᴀʟᴀʙɪʟɪʀѕɪɴ!"
+    - "&7----------------------------------------"
+
+  finish-title:
+    title: "&#B499DD&lᴋᴏɴᴛʀᴏʟ ʙɪᴛᴛɪ"
+    subtitle: "&fᴋᴏɴᴛʀᴏʟ ʙᴀѕᴀʀɪʏʟᴀ ᴛᴀᴍᴀᴍʟᴀɴᴅɪ, ɪʏɪ ᴏʏᴜɴʟᴀʀ"
+    fade-in: 10
+    stay: 60
+    fade-out: 20
+
+  finish-message: "&aᴋᴏɴᴛʀᴏʟᴜɴ ѕᴏɴᴀ ᴇʀᴅɪ. ɪʏɪ ᴏʏᴜɴʟᴀʀ ᴅɪʟᴇʀɪᴢ"
+  command-blocked: "&cᴋᴏɴᴛʀᴏʟ ᴀʟᴛɪɴᴅᴀʏᴋᴇɴ ᴋᴏᴍᴜᴛ ᴋᴜʟʟᴀɴᴀᴍᴀᴢѕɪɴ (ѕᴀᴅᴇᴄᴇ /itiraf ѕᴇʀʙᴇѕᴛᴛɪʀ)"
+
+# Yetkiliye Gönderilecek Bildirimler
+staff-notifications:
+  start-title:
+    title: "&#B499DD&lᴋᴏɴᴛʀᴏʟ ʙᴀѕʟᴀᴅɪ"
+    subtitle: "&#B499DD%player% &fᴀᴅʟɪ ᴏʏᴜɴᴄᴜ ᴋᴏɴᴛʀᴏʟᴇ ᴀʟɪɴᴅɪ."
+    fade-in: 10
+    stay: 60
+    fade-out: 20
+
+  finish-title:
+    title: "&#B499DD&lᴋᴏɴᴛʀᴏʟ ᴛᴀᴍᴀᴍʟᴀɴᴅɪ"
+    subtitle: "&#B499DD%player% &fᴀᴅʟɪ ᴏʏᴜɴᴄᴜ ᴋᴏɴᴛʀᴏʟᴜ ᴛᴀᴍᴀᴍʟᴀɴᴅɪ."
+    fade-in: 10
+    stay: 60
+    fade-out: 20
+
+  player-quit-alert: "&e[ᴅɪᴋᴋᴀᴛ] &c%player% &cᴏʏᴜɴᴅᴀɴ ᴄɪᴋᴛɪ!"
+
+# İtiraf Sistemi Ayarları
+confession:
+  player-message: "&eHile itirafınız kaydedildi. Yetkililer ceza indiriminizi değerlendirecektir."
+  staff-alert: "&#B499DD[ɪᴛɪʀᴀғ] &f%player% &eᴀᴅʟɪ ᴏʏᴜɴᴄᴜ ʜɪʟᴇ ᴏʟᴅᴜɢᴜɴᴜ ɪᴛɪʀᴀꜰ ᴇᴛᴛɪ!"
+
+# Sistem ve Bilgi Mesajları
+messages:
+  no-permission: "&4✘ &cʙᴜ ᴋᴏᴍᴜᴛᴜ ᴋᴜʟʟᴀɴᴍᴀᴋ ɪᴄɪɴ ʏᴇᴛᴋɪɴɪᴢ ʏᴏᴋ!"
+  player-not-found: "&4✘ &cʙᴇʟɪʀᴛɪʟᴇɴ ᴏʏᴜɴᴄᴜ ʙᴜʟᴜɴᴀᴍᴀᴅɪ ᴠᴇʏᴀ ᴄᴇᴠʀɪᴍᴅɪsɪ."
+  already-controlled: "&4✘ &cʙᴜ ᴏʏᴜɴᴄᴜ ᴢᴀᴛᴇɴ sᴜ ᴀɴᴅᴀ ᴋᴏɴᴛʀᴏʟᴅᴇ!"
+  not-controlled: "&4✘ &cʙᴜ ᴏʏᴜɴᴄᴜ ᴋᴏɴᴛʀᴏʟ ᴀʟᴛɪɴᴅᴀ ᴅᴇɢɪʟ!"
+  not-in-control: "&4✘ &csᴜ ᴀɴᴅᴀ ᴋᴏɴᴛʀᴏʟ ᴀʟᴛɪɴᴅᴀ ᴅᴇɢɪʟsɪɴɪᴢ!"
+  location-not-set: "&4✘ &cᴏɴᴄᴇ /setcontrol ᴋᴏᴍᴜᴛᴜ ɪʟᴇ ʙɪʀ ᴋᴏɴᴛʀᴏʟ ɴᴏᴋᴛᴀsɪ ʙᴇʟɪʀʟᴇᴍᴇʟɪsɪɴɪᴢ!"
+  location-set-success: "&a&l✓ &aᴋᴏɴᴛʀᴏʟ ɴᴏᴋᴛᴀsɪ ʙᴀsᴀʀɪʏʟᴀ ᴋᴀʏᴅᴇᴅɪʟᴅɪ!"
+  world-not-found: "&4✘ &cᴋᴀʏɪᴛʟɪ ᴋᴏɴᴛʀᴏʟ ᴅᴜɴʏᴀsɪ ʙᴜʟᴜɴᴀᴍᴀᴅɪ!"
+  reload-success: "&a&l✓ &aʏᴀᴘɪʟᴀɴᴅɪʀᴍᴀ ᴠᴇ ᴅɪʟ ᴅᴏsʏᴀʟᴀʀɪ ʙᴀsᴀʀɪʏʟᴀ ʏᴇɴɪʟᴇɴᴅɪ!"
+  only-players: "&cBu komut yalnızca oyun içi oyuncular tarafından kullanılabilir!"
+  control-started-staff: "&a%player% adlı oyuncu kontrol odasına çekildi!"
+  control-finished-staff: "&a%player% adlı oyuncunun kontrolü bitirildi!"
+  usage-finishcontrol: "&cKullanım: /finishcontrol <oyuncu>"
+  list-empty: "&7Şu anda aktif kontrolde olan kimse yok."
+  list-header: "&6&lAktif Kontroldeki Oyuncular &7(%count%):"
+  list-entry: "&8- &f%player% &7| Süre: &e%time% &7| Yetkili: &b%staff%"
+  help-header: "&8&m----------------------------------------"
+  help-title: "&b&lTwinsControl &7- &fKomut Rehberi:"
+  help-control: "&e/control <oyuncu> &7- Oyuncuyu kontrole çeker."
+  help-finishcontrol: "&e/finishcontrol <oyuncu> &7- Kontrolü sonlandırır."
+  help-list: "&e/control list &7- Aktif kontroldeki oyuncuları listeler."
+  help-reload: "&e/control reload &7- Yapılandırma ve dil dosyasını yeniler."
+  help-setcontrol: "&e/setcontrol &7- Kontrol odası koordinatını belirler."
+  help-footer: "&8&m----------------------------------------"

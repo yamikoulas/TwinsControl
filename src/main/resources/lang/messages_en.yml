@@ -1,0 +1,93 @@
+# =========================================================
+#                 TwinsControl - English Language File
+# =========================================================
+
+prefix: "<gradient:#B499DD:#A66AFF>ᴛᴡɪɴѕ ᴄᴏɴᴛʀᴏʟ</gradient> &8» "
+
+# Live BossBar Settings
+bossbar:
+  title: "&c&lUNDER INSPECTION"
+  time-format: "&7[%time%]"
+
+# Live ActionBar Notification
+actionbar:
+  message: "&eTime: &f%time% &8| &cContact staff on Discord!"
+
+# Player Notifications
+player-notifications:
+  control-title:
+    title: "&#B499DD&lꜰʀᴏᴢᴇɴ"
+    subtitle: "&fʏᴏᴜ ʜᴀᴠᴇ ʙᴇᴇɴ ꜰʀᴏᴢᴇɴ ꜰᴏʀ ѕᴜѕᴘᴇᴄᴛᴇᴅ ᴄʜᴇᴀᴛɪɴɢ"
+    fade-in: 10
+    stay: 100
+    fade-out: 20
+  
+  control-messages:
+    - "&7----------------------------------------"
+    - "&e⚠ &cᴄʜᴇᴀᴛ ɪɴѕᴘᴇᴄᴛɪᴏɴ ѕᴛᴀʀᴛᴇᴅ"
+    - ""
+    - "&cʏᴏᴜ ʜᴀᴠᴇ ʙᴇᴇɴ ꜰʀᴏᴢᴇɴ ᴅᴜᴇ ᴛᴏ ѕᴜѕᴘᴇᴄᴛᴇᴅ ᴄʜᴇᴀᴛɪɴɢ."
+    - "&eѕᴛᴀꜰꜰ ᴍᴇᴍʙᴇʀѕ ᴡɪʟʟ ᴄᴏɴᴛᴀᴄᴛ ʏᴏᴜ ѕʜᴏʀᴛʟʏ."
+    - "&eᴛᴏ ᴄᴏɴꜰᴇѕѕ: ᴛʏᴘᴇ &e/confess"
+    - "&e&lᴡᴀʀɴɪɴɢ: &cʟᴇᴀᴠɪɴɢ ᴛʜᴇ ѕᴇʀᴠᴇʀ ᴍᴀʏ ʀᴇѕᴜʟᴛ ɪɴ ᴀ ʙᴀɴ!"
+    - "&7----------------------------------------"
+
+  finish-title:
+    title: "&#B499DD&lɪɴѕᴘᴇᴄᴛɪᴏɴ ꜰɪɴɪѕʜᴇᴅ"
+    subtitle: "&fɪɴѕᴘᴇᴄᴛɪᴏɴ ᴄᴏᴍᴘʟᴇᴛᴇᴅ, ᴇɴᴊᴏʏ ᴛʜᴇ ɢᴀᴍᴇ"
+    fade-in: 10
+    stay: 60
+    fade-out: 20
+
+  finish-message: "&aʏᴏᴜʀ ɪɴѕᴘᴇᴄᴛɪᴏɴ ʜᴀѕ ᴇɴᴅᴇᴅ. ʜᴀᴠᴇ ꜰᴜɴ!"
+  command-blocked: "&cʏᴏᴜ ᴄᴀɴɴᴏᴛ ᴜѕᴇ ᴄᴏᴍᴍᴀɴᴅѕ ᴅᴜʀɪɴɢ ɪɴѕᴘᴇᴄᴛɪᴏɴ (ᴏɴʟʏ /confess ɪѕ ᴀʟʟᴏᴡᴇᴅ)!"
+
+# Staff Notifications
+staff-notifications:
+  start-title:
+    title: "&#B499DD&lɪɴѕᴘᴇᴄᴛɪᴏɴ ѕᴛᴀʀᴛᴇᴅ"
+    subtitle: "&#B499DD%player% &fʜᴀѕ ʙᴇᴇɴ ᴛᴀᴋᴇɴ ɪɴᴛᴏ ɪɴѕᴘᴇᴄᴛɪᴏɴ."
+    fade-in: 10
+    stay: 60
+    fade-out: 20
+
+  finish-title:
+    title: "&#B499DD&lɪɴѕᴘᴇᴄᴛɪᴏɴ ꜰɪɴɪѕʜᴇᴅ"
+    subtitle: "&#B499DD%player%'ѕ &fɪɴѕᴘᴇᴄᴛɪᴏɴ ʜᴀѕ ᴇɴᴅᴇᴅ."
+    fade-in: 10
+    stay: 60
+    fade-out: 20
+
+  player-quit-alert: "&e[ᴡᴀʀɴɪɴɢ] &c%player% &cʟᴇꜰᴛ ᴛʜᴇ ɢᴀᴍᴇ!"
+
+# Confession System Messages
+confession:
+  player-message: "&eYour confession has been recorded. Staff will consider penalty reduction."
+  staff-alert: "&#B499DD[ᴄᴏɴꜰᴇѕѕɪᴏɴ] &f%player% &eʜᴀѕ ᴀᴅᴍɪᴛᴛᴇᴅ ᴛᴏ ᴄʜᴇᴀᴛɪɴɢ!"
+
+# General & Command Messages
+messages:
+  no-permission: "&4✘ &cʏᴏᴜ ᴅᴏ ɴᴏᴛ ʜᴀᴠᴇ ᴘᴇʀᴍɪѕѕɪᴏɴ ᴛᴏ ᴜѕᴇ ᴛʜɪѕ ᴄᴏᴍᴍᴀɴᴅ!"
+  player-not-found: "&4✘ &cѕᴘᴇᴄɪꜰɪᴇᴅ ᴘʟᴀʏᴇʀ ᴡᴀѕ ɴᴏᴛ ꜰᴏᴜɴᴅ ᴏʀ ɪѕ ᴏꜰꜰʟɪɴᴇ."
+  already-controlled: "&4✘ &cᴛʜɪѕ ᴘʟᴀʏᴇʀ ɪѕ ᴀʟʀᴇᴀᴅʏ ᴜɴᴅᴇʀ ɪɴѕᴘᴇᴄᴛɪᴏɴ!"
+  not-controlled: "&4✘ &cᴛʜɪѕ ᴘʟᴀʏᴇʀ ɪѕ ɴᴏᴛ ᴜɴᴅᴇʀ ɪɴѕᴘᴇᴄᴛɪᴏɴ!"
+  not-in-control: "&4✘ &cʏᴏᴜ ᴀʀᴇ ɴᴏᴛ ᴄᴜʀʀᴇɴᴛʟʏ ᴜɴᴅᴇʀ ɪɴѕᴘᴇᴄᴛɪᴏɴ!"
+  location-not-set: "&4✘ &cʏᴏᴜ ᴍᴜѕᴛ ѕᴇᴛ ᴀ ᴄᴏɴᴛʀᴏʟ ʟᴏᴄᴀᴛɪᴏɴ ꜰɪʀѕᴛ ᴜѕɪɴɢ /setcontrol!"
+  location-set-success: "&a&l✓ &aᴄᴏɴᴛʀᴏʟ ʟᴏᴄᴀᴛɪᴏɴ ѕᴜᴄᴄᴇѕѕꜰᴜʟʟʏ ѕᴀᴠᴇᴅ!"
+  world-not-found: "&4✘ &cѕᴀᴠᴇᴅ ᴄᴏɴᴛʀᴏʟ ᴡᴏʀʟᴅ ᴄᴏᴜʟᴅ ɴᴏᴛ ʙᴇ ꜰᴏᴜɴᴅ!"
+  reload-success: "&a&l✓ &aᴄᴏɴꜰɪɢᴜʀᴀᴛɪᴏɴ ᴀɴᴅ ʟᴀɴɢᴜᴀɢᴇ ꜰɪʟᴇѕ ѕᴜᴄᴄᴇѕѕꜰᴜʟʟʏ ʀᴇʟᴏᴀᴅᴇᴅ!"
+  only-players: "&cThis command can only be used by players in-game!"
+  control-started-staff: "&a%player% has been moved to the control room!"
+  control-finished-staff: "&a%player%'s inspection has been ended!"
+  usage-finishcontrol: "&cUsage: /finishcontrol <player>"
+  list-empty: "&7There are currently no players under inspection."
+  list-header: "&6&lActive Inspected Players &7(%count%):"
+  list-entry: "&8- &f%player% &7| Time: &e%time% &7| Staff: &b%staff%"
+  help-header: "&8&m----------------------------------------"
+  help-title: "&b&lTwinsControl &7- &fCommand Guide:"
+  help-control: "&e/control <player> &7- Takes the player into inspection."
+  help-finishcontrol: "&e/finishcontrol <player> &7- Finishes the player's inspection."
+  help-list: "&e/control list &7- Lists all players currently under inspection."
+  help-reload: "&e/control reload &7- Reloads configuration and language."
+  help-setcontrol: "&e/setcontrol &7- Sets the inspection room location."
+  help-footer: "&8&m----------------------------------------"

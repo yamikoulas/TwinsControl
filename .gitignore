@@ -1,0 +1,29 @@
+# Target build directory
+target/
+*.jar
+*.war
+*.ear
+
+# Maven shade plugin temporary files
+dependency-reduced-pom.xml
+
+# IDE & Editor files
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+.vscode/
+.settings/
+.project
+.classpath
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs and crash reports
+*.log
+hs_err_pid*
+replay_pid*
