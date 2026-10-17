@@ -1,0 +1,9 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  structure:
+    - type: space
+      key: twinscontrol-docs
+      title: TwinsControl Documentation
+      path: /
+      content:
+        directory: ./docs
