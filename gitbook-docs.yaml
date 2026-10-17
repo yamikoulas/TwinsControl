@@ -6,5 +6,6 @@ site:
       key: twinscontrol-docs
       title: TwinsControl Docs
       path: /
+      default: true
       content:
         directory: ./docs
